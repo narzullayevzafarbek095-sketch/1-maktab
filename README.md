@@ -13,3 +13,4 @@ DILBAR EDICATION innovatsion ta'lim maskanining rasmiy veb-portali, onlayn test 
 - 🏆 Faxriy O'quvchilar va Yutuqlar zali
 - 🔒 Xavfsiz Admin Boshqaruv Paneli (Express + SQLite)
 # IT-LIVE-MATKAB
+# 1-maktab
